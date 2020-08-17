@@ -11,5 +11,5 @@ View и Presenter:
  - `ProductPreviewAdapter.kt` - адаптер карточки товара
  - `OnElementShownInVerticalLinearLayoutListener.kt` - слушатель появления элемента в списке при прокрутке списка вниз
  
-# Скриншоты 
-<img src="https://github.com/ZakShaker/ShopMvpExample/blob/master/fragment_shop_pic.png" height="500" /><img src="https://github.com/ZakShaker/ShopMvpExample/blob/master/screenshot.gif" height="500" />
+# Скриншоты
+<img src="https://github.com/ZakShaker/ShopMvpExample/blob/master/screenshot.gif" height="500" />
