@@ -12,3 +12,4 @@ View-Presenter:
 
 
 ![Экран магазина](https://github.com/ZakShaker/ShopMvpExample/blob/master/fragment_shop_pic.png)
+![Экран магазина Видео](https://github.com/ZakShaker/ShopMvpExample/blob/master/screenshot.gif)
