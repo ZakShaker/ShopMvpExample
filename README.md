@@ -9,3 +9,6 @@ View-Presenter:
  - `item_product.xml` - вёрстка карточки товара
  - `ProductPreviewAdapter.kt` - адаптер карточки товара
  - `OnElementShownInVerticalLinearLayoutListener.kt` - слушатель появления элемента в списке при прокрутке списка вниз
+
+
+![Экран магазина](https://github.com/ZakShaker/ShopMvpExample/blob/master/fragment_shop_pic.png)
