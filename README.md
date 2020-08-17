@@ -12,5 +12,4 @@ View и Presenter:
  - `OnElementShownInVerticalLinearLayoutListener.kt` - слушатель появления элемента в списке при прокрутке списка вниз
  
 # Скриншоты 
-![Экран магазина](https://github.com/ZakShaker/ShopMvpExample/blob/master/fragment_shop_pic.png)
-![Экран магазина Видео](https://github.com/ZakShaker/ShopMvpExample/blob/master/screenshot.gif)
+<img src="https://github.com/ZakShaker/ShopMvpExample/blob/master/fragment_shop_pic.png" height="500" /><img src="https://github.com/ZakShaker/ShopMvpExample/blob/master/screenshot.gif" height="500" />
